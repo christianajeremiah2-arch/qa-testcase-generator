@@ -1,0 +1,8 @@
+User Story: As a registered user, I want to log in with my email and password so that I can access my dashboard.
+
+Acceptance Criteria:
+1. The email field must contain a valid email format.
+2. The password must be between 8 and 20 characters.
+3. After 3 consecutive failed attempts, the account is locked for 15 minutes.
+4. On successful login, the user is redirected to the dashboard.
+5. Error messages must not reveal whether the email or the password was wrong.

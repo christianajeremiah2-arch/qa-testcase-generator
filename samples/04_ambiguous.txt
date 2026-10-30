@@ -1,0 +1,1 @@
+The system should allow users to upload their profile picture. The picture should not be too large and should be in a common format.

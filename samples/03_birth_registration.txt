@@ -1,0 +1,8 @@
+Requirement: Birth Registration form (Registrar portal)
+
+1. The Registrar can save a birth registration as a draft or submit it for approval.
+2. Child's first name and surname are required and accept letters, hyphens and apostrophes only.
+3. Date of birth cannot be in the future.
+4. Gender must be selected from Male or Female.
+5. A submitted record shows status "Pending" until an Approving Officer approves or queries it.
+6. A queried record returns to the Registrar with the query reason visible.

@@ -1,0 +1,6 @@
+ollama>=0.4.0
+streamlit>=1.38
+pydantic>=2.7
+pandas>=2.2
+openpyxl>=3.1
+pytest>=8.0

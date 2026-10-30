@@ -1,0 +1,8 @@
+User Story: As a customer, I want to transfer money to another bank account so that I can pay people.
+
+Acceptance Criteria:
+1. The beneficiary account number must be exactly 10 digits (NUBAN).
+2. The minimum transfer amount is NGN 100 and the maximum per transaction is NGN 1,000,000.
+3. The customer must enter a 4-digit transaction PIN to confirm.
+4. The transfer is rejected if the amount is greater than the available balance.
+5. A successful transfer shows a receipt with a transaction reference.

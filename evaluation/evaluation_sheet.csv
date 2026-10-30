@@ -1,0 +1,5 @@
+Requirement,Model,Cases generated,Relevant (count),Hallucinated rules (count),Duplicates (count),Positive,Negative,Boundary,Validation,Boundaries correct (Y/N),Steps executable (Y/N),Time to generate (s),Time to review and fix (min),Time to write manually (min),Notes
+01_login.txt,llama3.1:8b,,,,,,,,,,,,,,
+02_fund_transfer.txt,llama3.1:8b,,,,,,,,,,,,,,
+03_birth_registration.txt,llama3.1:8b,,,,,,,,,,,,,,
+04_ambiguous.txt,llama3.1:8b,,,,,,,,,,,,,,
